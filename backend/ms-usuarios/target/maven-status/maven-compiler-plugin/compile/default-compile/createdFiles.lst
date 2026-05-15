@@ -1,0 +1,4 @@
+com\mediflow\ms\controller\UsuarioController.class
+com\mediflow\ms\config\CorsConfig.class
+com\mediflow\ms\config\CorsConfig$1.class
+com\mediflow\ms\MsUsuariosApplication.class
